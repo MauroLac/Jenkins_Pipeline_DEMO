@@ -1,9 +1,9 @@
 <?xml version="1.1" encoding="UTF-8"?>
-<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" encoding="1047" id="Tests/Stubs/CWXTCOB_CWXTSUBC_01.stub" stubtype="Program" target="CWXTSUBC" token="30000">
+<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" encoding="1047" id="Tests/Stubs/CWXTCOB_CWXTSUBC_01.stub" stubtype="Program" target="CWXTSUBC" token="780000">
   <properties:properties>
     <properties:property name="programtype" type="string">ProgramStubAssertion</properties:property>
   </properties:properties>
-  <stub:description>Created: 21-set-2023 14.29.12</stub:description>
+  <stub:description>Created: 2 mag 2024, 16:47:44</stub:description>
   <stub:stubdata id="0" name="CWXTSUBC">
     <stub:interface>../Interfaces/CWXTCOB_CWXTSUBC.interface#Tests/Interfaces/CWXTCOB_CWXTSUBC.interface</stub:interface>
     <stub:inputinterface>../Interfaces/CWXTCOB_CWXTSUBC.interface#Tests/Interfaces/CWXTCOB_CWXTSUBC.interface</stub:inputinterface>
@@ -11,7 +11,7 @@
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTSUBC_EMP-TYPE.listructure#EMP_TYPE" id="arg0.EMP_TYPE">
         <properties:properties>
           <properties:property name="value" type="string">E2</properties:property>
-          <properties:property name="address" type="string">37E0E778</properties:property>
+          <properties:property name="address" type="string">37D3EA18</properties:property>
         </properties:properties>
       </stub:data>
     </stub:input>
@@ -19,7 +19,7 @@
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTSUBC_CALC-SALES.listructure#CALC_SALES" id="arg1.CALC_SALES">
         <properties:properties>
           <properties:property name="value" type="string">F0F5F5F0F0F0F0F0</properties:property>
-          <properties:property name="address" type="string">37E0E779</properties:property>
+          <properties:property name="address" type="string">37D3EA19</properties:property>
         </properties:properties>
       </stub:data>
     </stub:input>
@@ -27,7 +27,7 @@
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTSUBC_CALC-COMMISSION.listructure#CALC_COMMISSION" id="arg2.CALC_COMMISSION">
         <properties:properties>
           <properties:property name="value" type="string">0000000F</properties:property>
-          <properties:property name="address" type="string">37E0E781</properties:property>
+          <properties:property name="address" type="string">37D3EA21</properties:property>
         </properties:properties>
       </stub:data>
     </stub:input>
@@ -35,7 +35,7 @@
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTSUBC_EMP-TYPE.listructure#EMP_TYPE" id="arg0.EMP_TYPE">
         <properties:properties>
           <properties:property name="value" type="string">E2</properties:property>
-          <properties:property name="address" type="string">37E0E778</properties:property>
+          <properties:property name="address" type="string">37D3EA18</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>
@@ -43,7 +43,7 @@
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTSUBC_CALC-SALES.listructure#CALC_SALES" id="arg1.CALC_SALES">
         <properties:properties>
           <properties:property name="value" type="string">F0F5F5F0F0F0F0F0</properties:property>
-          <properties:property name="address" type="string">37E0E779</properties:property>
+          <properties:property name="address" type="string">37D3EA19</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>
@@ -51,7 +51,7 @@
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTSUBC_CALC-COMMISSION.listructure#CALC_COMMISSION" id="arg2.CALC_COMMISSION">
         <properties:properties>
           <properties:property name="value" type="string">0330000F</properties:property>
-          <properties:property name="address" type="string">37E0E781</properties:property>
+          <properties:property name="address" type="string">37D3EA21</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>
@@ -70,7 +70,7 @@
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTSUBC_EMP-TYPE.listructure#EMP_TYPE" id="arg0.EMP_TYPE">
         <properties:properties>
           <properties:property name="value" type="string">E2</properties:property>
-          <properties:property name="address" type="string">37E0E778</properties:property>
+          <properties:property name="address" type="string">37D3EA18</properties:property>
         </properties:properties>
       </stub:data>
     </stub:input>
@@ -78,7 +78,7 @@
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTSUBC_CALC-SALES.listructure#CALC_SALES" id="arg1.CALC_SALES">
         <properties:properties>
           <properties:property name="value" type="string">F0F7F0F0F0F0F0F0</properties:property>
-          <properties:property name="address" type="string">37E0E779</properties:property>
+          <properties:property name="address" type="string">37D3EA19</properties:property>
         </properties:properties>
       </stub:data>
     </stub:input>
@@ -86,7 +86,7 @@
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTSUBC_CALC-COMMISSION.listructure#CALC_COMMISSION" id="arg2.CALC_COMMISSION">
         <properties:properties>
           <properties:property name="value" type="string">0000000F</properties:property>
-          <properties:property name="address" type="string">37E0E781</properties:property>
+          <properties:property name="address" type="string">37D3EA21</properties:property>
         </properties:properties>
       </stub:data>
     </stub:input>
@@ -94,7 +94,7 @@
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTSUBC_EMP-TYPE.listructure#EMP_TYPE" id="arg0.EMP_TYPE">
         <properties:properties>
           <properties:property name="value" type="string">E2</properties:property>
-          <properties:property name="address" type="string">37E0E778</properties:property>
+          <properties:property name="address" type="string">37D3EA18</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>
@@ -102,7 +102,7 @@
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTSUBC_CALC-SALES.listructure#CALC_SALES" id="arg1.CALC_SALES">
         <properties:properties>
           <properties:property name="value" type="string">F0F7F0F0F0F0F0F0</properties:property>
-          <properties:property name="address" type="string">37E0E779</properties:property>
+          <properties:property name="address" type="string">37D3EA19</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>
@@ -110,7 +110,7 @@
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTSUBC_CALC-COMMISSION.listructure#CALC_COMMISSION" id="arg2.CALC_COMMISSION">
         <properties:properties>
           <properties:property name="value" type="string">0560000F</properties:property>
-          <properties:property name="address" type="string">37E0E781</properties:property>
+          <properties:property name="address" type="string">37D3EA21</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>

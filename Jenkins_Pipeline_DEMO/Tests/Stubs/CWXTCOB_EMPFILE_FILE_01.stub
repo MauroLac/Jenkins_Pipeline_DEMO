@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
-<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" disposition="SHR" encoding="1047" fileStatus="00" id="Tests/Stubs/CWXTCOB_EMPFILE_FILE_01.stub" stubtype="QSAM" target="EMPFILE" token="50000">
-  <stub:description>Created: 21-set-2023 14.29.40</stub:description>
+<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" disposition="SHR" encoding="1047" fileStatus="00" id="Tests/Stubs/CWXTCOB_EMPFILE_FILE_01.stub" stubtype="QSAM" target="EMPFILE" token="800000">
+  <stub:description>Created: 2 mag 2024, 16:48:13</stub:description>
   <stub:stubdata id="0" name="EMPFILE">
     <stub:inputinterface>../Interfaces/CWXTCOB_EMPFILE_EMPLOYEE_WORK_AREA.interface#Tests/Interfaces/CWXTCOB_EMPFILE_EMPLOYEE_WORK_AREA.interface</stub:inputinterface>
     <stub:input listructure="../Structures/CWXTCOB_EMPFILE_EMPLOYEE-WORK-AREA.listructure#Tests/Structures/CWXTCOB_EMPFILE_EMPLOYEE-WORK-AREA.listructure">

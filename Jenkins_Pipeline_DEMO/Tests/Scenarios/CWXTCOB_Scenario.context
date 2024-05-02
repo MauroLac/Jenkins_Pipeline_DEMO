@@ -3,7 +3,7 @@
   <ExtensionData>
     <Parameter key="unittest.loadlibraries">
       <Value>CEE.SCEERUN</Value>
-      <Value>HITMXC0.WBSAMP.LOAD.PDSE</Value>
+      <Value>SALESSUP.MXC0.DEV1.LOAD</Value>
     </Parameter>
   </ExtensionData>
   <XaUnit xmlns:data="http://www.xact.dk/xatester/data/v/1" componentNameUnderTest="CWXTCOB" caseInsensitiveCompare="false" path="CWXTCOB_Scenario.testscenario">
