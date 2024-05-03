@@ -1,9 +1,9 @@
 <?xml version="1.1" encoding="UTF-8"?>
-<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" encoding="1047" id="Tests/Stubs/CWXTCOB_CWXTDATE_01.stub" stubtype="Program" target="CWXTDATE" token="820000">
+<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" encoding="1047" id="Tests/Stubs/CWXTCOB_CWXTDATE_01.stub" stubtype="Program" target="CWXTDATE" token="870000">
   <properties:properties>
     <properties:property name="programtype" type="string">ProgramStubAssertion</properties:property>
   </properties:properties>
-  <stub:description>Created: 3 mag 2024, 11:13:13</stub:description>
+  <stub:description>Created: 3 mag 2024, 11:31:35</stub:description>
   <stub:stubdata id="0" name="CWXTDATE">
     <stub:interface>../Interfaces/CWXTCOB_CWXTDATE.interface#Tests/Interfaces/CWXTCOB_CWXTDATE.interface</stub:interface>
     <stub:inputinterface>../Interfaces/CWXTCOB_CWXTDATE.interface#Tests/Interfaces/CWXTCOB_CWXTDATE.interface</stub:inputinterface>

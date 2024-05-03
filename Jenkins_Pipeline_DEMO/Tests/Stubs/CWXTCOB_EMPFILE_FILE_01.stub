@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
-<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" disposition="SHR" encoding="1047" fileStatus="00" id="Tests/Stubs/CWXTCOB_EMPFILE_FILE_01.stub" stubtype="QSAM" target="EMPFILE" token="850000">
-  <stub:description>Created: 3 mag 2024, 11:13:48</stub:description>
+<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" disposition="SHR" encoding="1047" fileStatus="00" id="Tests/Stubs/CWXTCOB_EMPFILE_FILE_01.stub" stubtype="QSAM" target="EMPFILE" token="900000">
+  <stub:description>Created: 3 mag 2024, 11:32:10</stub:description>
   <stub:stubdata id="0" name="EMPFILE">
     <stub:inputinterface>../Interfaces/CWXTCOB_EMPFILE_EMPLOYEE_WORK_AREA.interface#Tests/Interfaces/CWXTCOB_EMPFILE_EMPLOYEE_WORK_AREA.interface</stub:inputinterface>
     <stub:input listructure="../Structures/CWXTCOB_EMPFILE_EMPLOYEE-WORK-AREA.listructure#Tests/Structures/CWXTCOB_EMPFILE_EMPLOYEE-WORK-AREA.listructure">
@@ -40,17 +40,6 @@
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_EMPFILE_EMPLOYEE-WORK-AREA.listructure#EMPLOYEE_WORK_AREA" id="arg0.EMPLOYEE_WORK_AREA">
         <properties:properties>
           <properties:property name="value" type="string">F0F6F7F4F5E2F3E5C1D3C5D9C9C540D6D3E2C5D54040F7F2F040D9C1E3E9C5D940D9D6C1C4E6C1E8D5C5404040D5D1F8F7F0F1F0404040400090000FF7F0F0F0F0F0F04040F9F4F0F5F0F14040404040</properties:property>
-        </properties:properties>
-      </stub:data>
-    </stub:input>
-    <stub:checkconditions/>
-  </stub:stubdata>
-  <stub:stubdata id="4" name="EMPFILE">
-    <stub:inputinterface>../Interfaces/CWXTCOB_EMPFILE_EMPLOYEE_WORK_AREA.interface#Tests/Interfaces/CWXTCOB_EMPFILE_EMPLOYEE_WORK_AREA.interface</stub:inputinterface>
-    <stub:input listructure="../Structures/CWXTCOB_EMPFILE_EMPLOYEE-WORK-AREA.listructure#Tests/Structures/CWXTCOB_EMPFILE_EMPLOYEE-WORK-AREA.listructure">
-      <stub:data baseType="listructure:structType ../Structures/CWXTCOB_EMPFILE_EMPLOYEE-WORK-AREA.listructure#EMPLOYEE_WORK_AREA" id="arg0.EMPLOYEE_WORK_AREA">
-        <properties:properties>
-          <properties:property name="value" type="string">F0F6F7F4F5E2F3D9D6C7C5D940C6C5C4C5D9C5D94040F7F2F040D9C1E3E9C5D940D9D6C1C4E6C1E8D5C5404040D5D1F8F7F0F1F0404040400090000FF7F0F0F0F0F0F04040F9F4F0F5F0F14040404040</properties:property>
         </properties:properties>
       </stub:data>
     </stub:input>
