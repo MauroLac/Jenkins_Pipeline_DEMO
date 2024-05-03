@@ -1,12 +1,12 @@
 <?xml version="1.1" encoding="UTF-8"?>
-<stub:stub xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" encoding="1047" id="Tests/Stubs/CWXTCOB_DATETIME_01.stub" nextCalltoken="760002" stubtype="DATETIME" target="" token="760000">
-  <stub:description>Created: 2 mag 2024, 16:47:36</stub:description>
-  <stub:stubdata callToken="760001" dateTimeType="1" id="0" name="ACCEPT DATE">
+<stub:stub xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" encoding="1047" id="Tests/Stubs/CWXTCOB_DATETIME_01.stub" nextCalltoken="810002" stubtype="DATETIME" target="" token="810000">
+  <stub:description>Created: 3 mag 2024, 11:13:10</stub:description>
+  <stub:stubdata callToken="810001" dateTimeType="1" id="0" name="ACCEPT DATE">
     <stub:interface>../Interfaces/CWXTCOB_TODAYS_DATE.interface#Tests/Interfaces/CWXTCOB_TODAYS_DATE.interface</stub:interface>
     <stub:output listructure="../Structures/CWXTCOB_TODAYS-DATE.listructure#Tests/Structures/CWXTCOB_TODAYS-DATE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_TODAYS-DATE.listructure#TODAYS_DATE" id="arg0.TODAYS_DATE">
         <properties:properties>
-          <properties:property name="value" type="string">F2F4F0F5F0F2</properties:property>
+          <properties:property name="value" type="string">F2F4F0F5F0F3</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>
@@ -14,9 +14,9 @@
     <stub:dateTimeServiceList>
       <stub:dateTimeService>
         <stub:serviceName>IGZXLOCT</stub:serviceName>
-        <stub:serviceArg>000275F9</stub:serviceArg>
-        <stub:serviceArg>4933E885D47EBC6A</stub:serviceArg>
-        <stub:serviceArg>F2F0F2F4F0F5F0F2F1F0F4F7F3F5F9F2F1</stub:serviceArg>
+        <stub:serviceArg>000275FA</stub:serviceArg>
+        <stub:serviceArg>4933E89606603127</stub:serviceArg>
+        <stub:serviceArg>F2F0F2F4F0F5F0F3F0F5F1F3F1F0F0F1F2</stub:serviceArg>
         <stub:serviceArg xsi:nil="true"/>
       </stub:dateTimeService>
     </stub:dateTimeServiceList>
