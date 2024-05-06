@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
-<stub:stub xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" encoding="1047" id="Tests/Stubs/CWXTCOB_DATETIME_01.stub" nextCalltoken="960002" stubtype="DATETIME" target="" token="960000">
-  <stub:description>Created: 6 mag 2024, 10:15:49</stub:description>
-  <stub:stubdata callToken="960001" dateTimeType="1" id="0" name="ACCEPT DATE">
+<stub:stub xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" encoding="1047" id="Tests/Stubs/CWXTCOB_DATETIME_01.stub" nextCalltoken="1030002" stubtype="DATETIME" target="" token="1030000">
+  <stub:description>Created: 6 mag 2024, 16:06:29</stub:description>
+  <stub:stubdata callToken="1030001" dateTimeType="1" id="0" name="ACCEPT DATE">
     <stub:interface>../Interfaces/CWXTCOB_TODAYS_DATE.interface#Tests/Interfaces/CWXTCOB_TODAYS_DATE.interface</stub:interface>
     <stub:output listructure="../Structures/CWXTCOB_TODAYS-DATE.listructure#Tests/Structures/CWXTCOB_TODAYS-DATE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_TODAYS-DATE.listructure#TODAYS_DATE" id="arg0.TODAYS_DATE">
@@ -15,8 +15,8 @@
       <stub:dateTimeService>
         <stub:serviceName>IGZXLOCT</stub:serviceName>
         <stub:serviceArg>000275FD</stub:serviceArg>
-        <stub:serviceArg>4933E8D47E0B26E9</stub:serviceArg>
-        <stub:serviceArg>F2F0F2F4F0F5F0F6F0F4F1F7F3F6F6F9F7</stub:serviceArg>
+        <stub:serviceArg>4933E8D99A555C29</stub:serviceArg>
+        <stub:serviceArg>F2F0F2F4F0F5F0F6F1F0F0F6F2F9F3F3F5</stub:serviceArg>
         <stub:serviceArg xsi:nil="true"/>
       </stub:dateTimeService>
     </stub:dateTimeServiceList>
